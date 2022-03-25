@@ -8,7 +8,9 @@ Anaconda
 
 ## Commands
 
-To activate the environment use `conda env create -f conda_env.yml` 
+To create the environment use `conda env create -f conda_env.yml` 
+
+To activate the environment use `conda activate deeplearning`
 
 To update the environment file use `conda env export > conda_env.yml` 
 
